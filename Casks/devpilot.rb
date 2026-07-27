@@ -1,6 +1,6 @@
 cask "devpilot" do
-  version "0.1.9"
-  sha256 "d0d580c338b5016af5389aea3e3c5cabf6f6a89d042991dee3d5c41698489c7a"
+  version "0.1.10"
+  sha256 "bedcf43c29d945670f047da6ad694ece7108997076509d17d8cc5326deee1292"
 
   url "https://github.com/pkc918/DevPilot/releases/download/v#{version}/DevPilot-v#{version}.dmg"
   name "DevPilot"
