@@ -1,11 +1,11 @@
 class MpcPlus < Formula
-  PACKAGE_VERSION = "0.0.1-beta.1".freeze
+  PACKAGE_VERSION = "0.0.1".freeze
 
   desc "CLI for uploading mini-program builds (WeChat, Douyin, Alipay, XHS)"
   homepage "https://github.com/pkc918/mpc-plus"
   url "https://registry.npmjs.org/@mpc-plus/cli/-/cli-#{PACKAGE_VERSION}.tgz"
   version PACKAGE_VERSION
-  sha256 "b718d6903c487bac112aa42be365d9a783b205d554f1c1920b9d8db203f9964c"
+  sha256 "36904dbe6de9b0079ab2bc47ba1c926e4b3cc6d0ac63fb2d8a4f651f11a63838"
   license "MIT"
 
   depends_on "node"
